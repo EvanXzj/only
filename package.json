@@ -1,0 +1,26 @@
+{
+  "name": "only",
+  "version": "1.0.0",
+  "description": "scoped package test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvanXzj/only.git"
+  },
+  "keywords": [
+    "only",
+    "scoped",
+    "test",
+    "chuidylan",
+    "evan"
+  ],
+  "author": "EvanXzj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EvanXzj/only/issues"
+  },
+  "homepage": "https://github.com/EvanXzj/only#readme"
+}
