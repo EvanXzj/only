@@ -1,1 +1,1 @@
-module.export = () => () => 'chuidylan'
+module.exports = () => 'chuidylan'
