@@ -1,5 +1,5 @@
 {
-  "name": "only",
+  "name": "@chuidylan/only",
   "version": "1.0.0",
   "description": "scoped package test",
   "main": "index.js",
